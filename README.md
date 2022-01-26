@@ -23,7 +23,7 @@
 #	- move <human/robot> <destination>	|   move human or robot (addressed by name) one unit toward destination
 #						                          |   as time progresses, destination can be waypoint, fire, or coordinates
 #
-# - show                              |   displays graphical diagram of world and contents
+#	 - show                              |   displays graphical diagram of world and contents
 #
 #	- quit				                      |   exits running program. Y to confirm.
 #
